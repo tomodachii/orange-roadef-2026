@@ -1,0 +1,3 @@
+[submodule "SOICT_mathematical_modelling"]
+	path = SOICT_mathematical_modelling
+	url = git@github.com:vhnguyen97/SOICT_mathematical_modelling.git
